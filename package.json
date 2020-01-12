@@ -1,0 +1,14 @@
+{
+  "id": "telegram-react",
+  "name": "telegram-react",
+  "version": "1.0.0",
+  "description": "Telegram React",
+  "main": "index.js",
+  "author": "Nils Westhoff <nils@nilswesthoff.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://evgeny-nadymov.github.io/telegram-react/",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
